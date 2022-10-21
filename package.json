@@ -1,0 +1,23 @@
+{
+  "name": "ExcersiseIOET",
+  "version": "1.0.0",
+  "description": "The company ACME offers their employees the flexibility to work the hours they want. But due to some external circumstances they need to know what employees have been at the office within the same time frame\r The goal of this exercise is to output a table containing pairs of employees and how often they have coincided in the office.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremy-Ramirez/ExcersiseIOET.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeremy-Ramirez/ExcersiseIOET/issues"
+  },
+  "homepage": "https://github.com/Jeremy-Ramirez/ExcersiseIOET#readme",
+  "dependencies": {
+    "jest": "^29.2.1"
+  }
+}

@@ -33,10 +33,11 @@ const employeeInfo = (data) => {
     })
 
     searchCoincidence(employees);
-
+    
 }
 
 
 module.exports = {
-    employeeInfo
+    employeeInfo,
+    employees
 }
