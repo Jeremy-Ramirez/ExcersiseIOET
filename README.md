@@ -17,7 +17,7 @@ ASTRID-RENE: 2 \
 ASTRID-ANDRES: 3 \
 RENE-ANDRES: 2
 
-##Instructions how to run the program locally
+## Instructions how to run the program locally
 
 1. Clone or Download the project
 2. Execute the command 'npm app.js'
