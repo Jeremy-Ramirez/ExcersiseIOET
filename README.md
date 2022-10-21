@@ -20,12 +20,19 @@ RENE-ANDRES: 2
 ## Instructions how to run the program locally
 
 1. Clone or Download the project
+3. Install npm with the command 'npm init -y'
 2. Execute the command 'node app.js'
+
+## Instructions for run tests
+
+1. Install jest library with the command 'npm install --save jest'
+2. Execute the command 'npm run test'
 
 ## Project structure
 
 The main code can be found on the app.js file.\
-The functions used are located in the controller folder.
+The functions used are located in the controller folder.\
+The testing functions are on test folder.
 
 ## Solution
 
