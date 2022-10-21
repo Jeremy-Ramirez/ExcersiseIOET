@@ -22,3 +22,16 @@ RENE-ANDRES: 2
 1. Clone or Download the project
 2. Execute the command 'npm app.js'
 
+## Project structure
+
+The main code can be found on the app.js file.\
+The functions used are located in the controller folder.
+
+## Solution
+
+This problem was solved used functional programming with javascript as programming language. This paradigm help us since we won't mutate the original data.\
+In order to solve this problem I used the Divide and conquer desing paradigm.The problem was divided in subproblems:
+ - Read File given.
+ - Get the Employee information and save it.
+ - Search coincidence in schedules.
+ 
